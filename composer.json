@@ -1,0 +1,19 @@
+{
+    "name": "futur/test-php-package",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Futur\\TestPhpPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "futurewebprogramming",
+            "email": "123332352+futurewebprogramming@users.noreply.github.com"
+        }
+    ]
+}
