@@ -1,5 +1,5 @@
 {
-    "name": "yahya/futur/test-php-package",
+    "name": "futurewebprogramming/test-php-package",
     "type": "library",
     "require": {
         "phpunit/phpunit": "^11.0"
